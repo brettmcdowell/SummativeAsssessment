@@ -1,0 +1,42 @@
+Favicon:
+https://www.w3schools.com/html/html_favicon.asp
+Installing Boostrap:
+https://getbootstrap.com/docs/5.2/getting-started/introduction/
+Sidebar:
+https://www.w3schools.com/howto/howto_js_collapse_sidebar.asp
+Boostrap Tabs:
+https://codepen.io/Wendy-Ho/pen/MWWBvmd
+Malware Information:
+https://www.cisco.com/c/en/us/products/security/advanced-malware-protection/what-is-malware.html
+Viruses Information:
+https://www.trellix.com/en-au/security-awareness/ransomware/malware-vs-viruses.html
+https://en.wikipedia.org/wiki/Computer_virus
+Worms Information:
+https://en.wikipedia.org/wiki/Computer_worm
+Malware Video:
+https://www.youtube.com/embed/QozdEbyMK5E/?controls=0
+Boostrap Form:
+https://mdbootstrap.com/docs/standard/forms/overview/
+Wavy Background:
+https://codepen.io/baarbaracrr/pen/KKovmGb
+Top of Page Button:
+https://www.freecodecamp.org/news/css-only-back-to-top-button/
+User Feedback Form:
+https://www.w3schools.com/howto/howto_css_form_icon.asp
+Clearing Input JavaScript:
+https://bobbyhadz.com/blog/javascript-clear-input-field-after-submit#:~:text=To%20clear%20an%20input%20field%20after%20submitting%3A&text=When%20the%20button%20is%20clicked,empty%20string%20resets%20the%20input.
+Submit Event:
+https://www.youtube.com/watch?v=I_fVO_NzT2g
+Sweet Alert:
+https://sweetalert2.github.io/
+Slider Scale:
+https://www.w3schools.com/howto/howto_js_rangeslider.asp
+Cyber Security Dataset:
+https://www.kaggle.com/datasets/deepcontractor/cyber-security-salaries
+D3 Graph Filterable Graph:
+https://d3-graph-gallery.com/graph/line_filter.html
+
+
+
+
+

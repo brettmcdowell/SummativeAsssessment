@@ -1,0 +1,185 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!--https://www.w3schools.com/html/html_favicon.asp-->
+    <link rel="icon" type="image/x-icon" href="Images\favicon.ico">
+    <!--https://getbootstrap.com/docs/5.2/getting-started/introduction/-->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-iYQeCzEYFbKjA/T2uDLTpkwGzCiq6soy8tYaI1GyVh/UjpbCx/TYkiZhlZB6+fzT" crossorigin="anonymous">
+    <!--https://getbootstrap.com/docs/5.2/getting-started/introduction/-->
+    <link href = "css.css" rel="stylesheet">
+    <title>CyberEdu</title>
+</head>
+<body>
+<!-- https://www.w3schools.com/howto/howto_js_collapse_sidebar.asp -->
+  <div id="mySidebar" class="sidebar">
+    <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+    <a href="#ourPurpose">Our Purpose</a>
+    <a href="#Malware">Malware</a>
+    <a href="#OSI">Open Source Intelligence</a>
+    <a href="#Data">Data</a>
+    <a href="#userFeedback">User Feedback</a>
+  </div>
+<!-- https://www.w3schools.com/howto/howto_js_collapse_sidebar.asp -->
+  <div id="main">
+    <button class="openbtn" onclick="openNav()">&#9776;</button>
+    <h1 id="CyberEdu" class="cyberEdu">CyberEdu</h1><br><br>
+    <p id='ourPurpose' class="mainSections">Our Purpose</p>
+    <p class="generalText">Our website is a resource that will be used to educate and expand Computer Science students' knowledge of Cyber Security beyond the prescribed curriculum of their current studies and teach them practical skills, ultimately, increasing their employability and expanding their skillset</p>
+    <p id='Malware' class="mainSections">Malware</p>
+    <p class='generalText'>Click on tab to reveal Information</p>
+    <!-- https://codepen.io/Wendy-Ho/pen/MWWBvmd -->
+    <div class="warpper">
+      <input class="radio" id="one" name="group" type="radio" checked>
+      <input class="radio" id="two" name="group" type="radio">
+      <input class="radio" id="three" name="group" type="radio">
+      <input class="radio" id="four" name="group" type="radio">
+      <div class="tabs">
+      <label class="tab" id="one-tab" for="one">Definition</label>
+      <label class="tab" id="two-tab" for="two">Viruses</label>
+      <label class="tab" id="three-tab" for="three">Worms</label>
+      <label class="tab" id="four-tab" for="four">Malware Video</label>
+        </div>
+      <div class="panels">
+      <div class="panel" id="one-panel">
+        <div class="panel-title">Malware Definition:</div>
+        <p class="tabText">Malware, short for 'Malicious Software' is intrusive software that is intentionally designed to cause disruption, damage, or gain unauthorised access to a computer, server, client or computer network<br><br>The most common types of malware include computer viruses, computer worms, Ransomware, Keyloggers, Trojan horses, spyware and other examples of malicious software. Others include Fileless Malware, Spyware Adware, Rootkits, Bots, RAM scraper, and Mobile Malware</p>
+      </div>
+      <div class="panel" id="two-panel">
+        <div class="panel-title">What are Viruses?</div>
+        <p class="tabText">A computer virus is a type of computer program that, when executed, replicates itself by modifying other computer programs and inserting its own code. If this replication succeeds, the affected areas are then said to be "infected" with a computer virus<br><br>Every computer virus has a payload that performs an action. The threat actor can code any malicious activity into the virus payload, including simple, innocuous pranks that don’t do any harm. While a few viruses have harmless payloads, most of them cause damage to the system and its data. There are nine main virus types, some of which could be packaged with other malware to increase the chance of infection and damage. The nine major categories for viruses on computers are: Boot Sector Virus, Web Scripting Virus, Browser Hijacker, Resident Virus, Direct Action Virus, Polymorphic Virus, File Infector Virus, Multipartite Virus, and Macro Virus</p>
+      </div>
+      <div class="panel" id="three-panel">
+        <div class="panel-title">What are Worms?</div>
+        <p class="tabText">A standalone malware computer program that replicates itself in order to spread to other computers. Often uses computer network to spread itself, relying on security failures on the target computer to access it<br><br>Computer worms often rely on vulnerabilities in networking protocols, such as File Transfer Protocol, to propogate. After a computer worm loads and begins running on a newly infected system, it will typically follow its prime directive: to remain active on an infected system for as long as possible and spread to as many other vulnerable systems as possible. The main types of computer worms are: Email Worms, File-Sharing Worms, Instant Messaging Worms, Crypto-Worms, and Internet Worms</p>
+      </div>
+      <div class="panel" id="four-panel">
+        <div class="panel-title">Video about Malware:</div>
+        <div class="iframe-container">
+        <iframe width="700" height="700" src="https://www.youtube.com/embed/QozdEbyMK5E/?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        </div>
+      </div>
+    </div>
+    <p id="OSI" class="mainSections">Open Source Intelligence</p>
+    <p class='generalText'>Click on tab to reveal Information</p>
+     <!-- https://codepen.io/Wendy-Ho/pen/MWWBvmd -->
+    <div class="warpper">
+      <input class="radio" id="oneb" name="group" type="radio" checked>
+      <input class="radio" id="twob" name="group" type="radio">
+      <input class="radio" id="threeb" name="group" type="radio">
+      <input class="radio" id="fourb" name="group" type="radio">
+      <div class="tabs">
+      <label class="tab" id="oneb-tab" for="oneb">Definition</label>
+      <label class="tab" id="twob-tab" for="twob">Reverse Image Searching</label>
+      <label class="tab" id="threeb-tab" for="threeb">Metadata Search</label>
+      <label class="tab" id="fourb-tab" for="fourb">OSINT Video</label>
+        </div>
+      <div class="panels">
+      <div class="panel" id="oneb-panel">
+        <div class="panel-title">Open Source Intelligence Definition:</div>
+        <p class="tabText">Collection and analysis of data gathered from open sources (covert and publicly available) to produce actionable intelligence. Open Source Intelligence is used in national security, law enforcement, and business intelligence and is of value to analysts who use non-sensitive intelligence in answering classified, unclassified, or proprietary intelligence requirements across the previous intelligence disciplines<br><br>Open Source Intelligence traces its origins to the creation of the Foreign Broadcast Monitoring Service, an agency responsible for the monitoring of foreign broadcasts. The web browser is a powerful OSINT tool that provides access to numerous websites and both open source and proprietary software tools that are either purpose-built for open source information or which can be exploited for the purposes of either gathering of open source information or to facilitate analysis and validation to provide intelligence</p>
+      </div>
+      <div class="panel" id="twob-panel">
+        <div class="panel-title">What is Reverse Image Searching</div>
+        <p class="tabText">Using Search Engines, you can quickly discover visually similar photos from around the web using Reverse Image Searching technology, utilizing content-based image retrieval (CBIR) query techniques. Uploading a photograph from your device or inputting the URL of an image, you can ask a search engine to locate and show you related images used on other websites, either those images that are exactly the same or the same but a different size, or those that contain similar looking items or people. </p>
+      </div>
+      <div class="panel" id="threeb-panel">
+        <div class="panel-title">What is Metadata Search?</div>
+        <p class="tabText">The best models of cameras allow you to make geotags (coordinates where the picture was taken), time (in EXIF format it is accurate only if the clock is set correctly on the device, but without reference to the world standard). Using different identifiers of metadata objects and through searching the metadata, you can possibly do the following: establish the person on the photo, determine the geographical location of objects, find out the time when the picture was taken, get information about the authorship of the picture (device and details about it), as well as data on subsequent transformations using picture editors. This is an extremely useful as it allows information to be ascertained about a subject with relative ease</p>
+      </div>
+      <div class="panel" id="fourb-panel">
+        <div class="panel-title">Video about Open Source Intellignece:</div>
+        <div class="iframe-container">
+          <iframe width="700" height="700" src="https://www.youtube.com/embed/KTIOHgiIqvM/?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        </div>
+      </div>
+    </div>
+
+    <p id="Data" class="mainSections">Data</p>
+    <p class='generalText'>Click on tab to reveal Graph</p>
+    <!-- https://codepen.io/Wendy-Ho/pen/MWWBvmd -->
+    <div class="warpper">
+      <input class="radio" id="onec" name="group" type="radio" checked>
+      <input class="radio" id="twoc" name="group" type="radio">
+      <input class="radio" id="threec" name="group" type="radio">
+      <div class="tabs">
+      <label class="tab" id="onec-tab" for="onec">Graph 1</label>
+      <label class="tab" id="twoc-tab" for="twoc">Graph 2</label>
+      <label class="tab" id="threec-tab" for="threec">Graph 3</label>
+        </div>
+      <div class="panels">
+      <div class="panel" id="onec-panel">
+        <div class="panel-title">Graph for Records stolen by Year in USA</div>
+        <p class="tabText">Scatter Graph illustrates amount of Records stolen by Year across different companies</p>
+        <p class="spacer"></p>
+        <!-- https://d3-graph-gallery.com/graph/scatter_tooltip.html -->
+        <div id="my_dataviz2"></div>
+      </div>
+      <div class="panel" id="twoc-panel">
+        <div class="panel-title">Heatmap to show Records stolen by Organisation Type</div>
+        <p class="tabText">Heatmap illustrates amount of Records stolen by Year by different organisation types</p>
+        <p class="spacer"></p>
+        <!-- https://d3-graph-gallery.com/graph/heatmap_style.html -->
+        <div id="my_dataviz3"></div>
+      </div>
+      <div class="panel" id="threec-panel">
+        <div class="panel-title">Graph for Cyber Security Salaries by Year in USA</div>
+        <p class="tabText">Graph illustrates Cyber Security industry salaries within the USA between 1985-2022</p>
+        <p class="spacer"></p>
+        <!-- https://d3-graph-gallery.com/graph/line_filter.html -->
+        <!-- Initialize a select button -->
+        <select id="selectButton"></select>
+        <!-- Create a div where the graph will take place -->
+        <div id="my_dataviz"></div>
+      </div>
+    </div>
+    
+
+
+    <p id="userFeedback" class="mainSections">User Feedback</p>
+<!-- https://www.w3schools.com/howto/howto_css_form_icon.asp -->
+    <form id="submitForm">
+      <div class="input-container">
+        <i class="fa fa-user icon"></i>
+        <input class="input-field" type="text" placeholder="Full Name" id="fullName" required>
+      </div>
+      <div class="input-container">
+        <i class="fa fa-envelope icon"></i>
+        <input class="input-field" type="email" placeholder="Email Address" id="emailAddress" required>
+      </div>
+      <div class="input-container">
+        <input class="input-field" type="text" size="4" placeholder="Areas for Improvement" id="userFeedback" required>
+      </div>
+      <!-- https://www.w3schools.com/howto/howto_js_rangeslider.asp -->
+      <div class="slidecontainer">
+        <input type="range" min="0" max="10" value="5" class="slider" id="userRange">
+        <p class="generalText">User Rating: <span id="demo"></span></p>
+      </div>
+      <button type="submit" id="submitButton" class="btn">Submit</button>
+    </form>
+
+  </div>
+  <!-- https://codepen.io/baarbaracrr/pen/KKovmGb -->
+  <body>
+    <div>
+       <div class="wave"></div>
+       <div class="wave"></div>
+       <div class="wave"></div>
+    </div>
+  </body>
+
+<!-- https://www.freecodecamp.org/news/css-only-back-to-top-button/ -->
+<a href="#" class="top">&#8593;</a>
+  
+<script src="https://d3js.org/d3.v6.min.js"></script>
+<script src="https://d3js.org/d3-scale-chromatic.v1.min.js"></script>
+<script src="JavaScript.js"></script>
+<script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
+<script src="https://use.fontawesome.com/1368461d93.js"></script>
+<script type="text/javascript" src="https://d3js.org/d3.v4.min.js"></script>
+</body>
+</html>
+
+

@@ -1,0 +1,307 @@
+Entity,Year,Records,OrganizationType,Method
+Adobe,1990,15000,Technology,Poor Security
+Air Canada,1990,14300,Aviation,Hacking
+Samsung,1990,18765,Consumer Goods,Poor Security
+Goldman Sachs,1990,22345,Investment Banking,Inside Job
+Goldman Sachs,1991,14186,Investment Banking,Accidental Leak
+Goldman Sachs,1992,14212,Investment Banking,Hacking
+Apple,1990,3000,Consumer Tech,Hacking
+Bank of America,1990,27864,Consumer Bank,Losing Data
+Citigroup,1990,36789,Financial,Losing Data
+Citigroup,1991,36000,Financial,Hacking
+Citigroup,1992,35432,Financial,Poor Security
+Yale University,1990,43000,Academic,Accidental Leak
+YouTube,1990,5000,Social Media,Poor Security
+YouTube,1991,4700,Social Media,Poor Security
+YouTube,1992,4500,Social Media,Poor Security
+YouTube,1993,3200,Social Media,Poor Security
+YouTube,1994,2341,Social Media,Poor Security
+YouTube,1995,2565,Social Media,Poor Security
+YouTube,1996,4231,Social Media,Poor Security
+YouTube,1997,2852,Social Media,Poor Security
+YouTube,1998,5818,Social Media,Poor Security
+YouTube,1999,3841,Social Media,Poor Security
+YouTube,2000,4927,Social Media,Poor Security
+YouTube,2001,1412,Social Media,Poor Security
+YouTube,2002,3691,Social Media,Poor Security
+YouTube,2003,5017,Social Media,Poor Security
+YouTube,2004,5201,Social Media,Poor Security
+YouTube,2005,6564,Social Media,Poor Security
+YouTube,2006,3525,Social Media,Poor Security
+YouTube,2007,2603,Social Media,Poor Security
+YouTube,2008,1820,Social Media,Poor Security
+YouTube,2009,4465,Social Media,Poor Security
+YouTube,2010,3016,Social Media,Poor Security
+YouTube,2011,6037,Social Media,Poor Security
+YouTube,2012,3691,Social Media,Poor Security
+YouTube,2013,3315,Social Media,Poor Security
+YouTube,2014,4405,Social Media,Poor Security
+YouTube,2015,1652,Social Media,Poor Security
+YouTube,2016,2325,Social Media,Poor Security
+YouTube,2017,2142,Social Media,Poor Security
+YouTube,2018,1673,Social Media,Poor Security
+YouTube,2019,6066,Social Media,Poor Security
+YouTube,2020,4546,Social Media,Poor Security
+YouTube,2021,2313,Social Media,Poor Security
+YouTube,2022,5333,Social Media,Poor Security
+YouTube,2021,6318,Social Media,Poor Security
+YouTube,2018,3845,Social Media,Poor Security
+YouTube,2019,1951,Social Media,Poor Security
+Adobe,1991,11926,Technology,Poor Security
+Adobe,1992,9803,Technology,Poor Security
+Adobe,1993,4292,Technology,Poor Security
+Adobe,1994,14858,Technology,Poor Security
+Adobe,1995,9058,Technology,Poor Security
+Adobe,1996,11910,Technology,Poor Security
+Adobe,1997,13093,Technology,Poor Security
+Adobe,1998,4443,Technology,Poor Security
+Adobe,1999,4957,Technology,Poor Security
+Adobe,2000,7234,Technology,Poor Security
+Adobe,2001,10060,Technology,Poor Security
+Adobe,2002,9636,Technology,Poor Security
+Adobe,2003,10720,Technology,Poor Security
+Adobe,2004,13842,Technology,Poor Security
+Adobe,2005,14972,Technology,Poor Security
+Adobe,2006,11851,Technology,Poor Security
+Adobe,2007,12652,Technology,Poor Security
+Adobe,2008,10781,Technology,Poor Security
+Adobe,2009,11711,Technology,Poor Security
+Adobe,2010,11832,Technology,Poor Security
+Adobe,2011,13813,Technology,Poor Security
+Adobe,2012,8279,Technology,Poor Security
+Adobe,2013,8571,Technology,Poor Security
+Adobe,2014,4378,Technology,Poor Security
+Adobe,2015,9385,Technology,Poor Security
+Adobe,2016,13149,Technology,Poor Security
+Adobe,2017,5962,Technology,Poor Security
+Adobe,2018,9672,Technology,Poor Security
+Adobe,2019,9541,Technology,Poor Security
+Adobe,2020,6634,Technology,Poor Security
+Adobe,2021,4789,Technology,Poor Security
+Adobe,2022,14669,Technology,Poor Security
+Air Canada,1991,6832,Aviation,Hacking
+Air Canada,1992,11902,Aviation,Hacking
+Air Canada,1993,11097,Aviation,Hacking
+Air Canada,1994,9663,Aviation,Hacking
+Air Canada,1995,9266,Aviation,Hacking
+Air Canada,1996,8780,Aviation,Hacking
+Air Canada,1997,12871,Aviation,Hacking
+Air Canada,1998,13608,Aviation,Hacking
+Air Canada,1999,6244,Aviation,Hacking
+Air Canada,2000,8001,Aviation,Hacking
+Air Canada,2001,11830,Aviation,Hacking
+Air Canada,2002,13345,Aviation,Hacking
+Air Canada,2003,12333,Aviation,Hacking
+Air Canada,2004,5823,Aviation,Hacking
+Air Canada,2005,10743,Aviation,Hacking
+Air Canada,2006,6069,Aviation,Hacking
+Air Canada,2007,13605,Aviation,Hacking
+Air Canada,2008,7984,Aviation,Hacking
+Air Canada,2009,11122,Aviation,Hacking
+Air Canada,2010,13090,Aviation,Hacking
+Air Canada,2011,12882,Aviation,Hacking
+Air Canada,2012,8376,Aviation,Hacking
+Air Canada,2013,10334,Aviation,Hacking
+Air Canada,2014,9057,Aviation,Hacking
+Air Canada,2015,10864,Aviation,Hacking
+Air Canada,2016,11375,Aviation,Hacking
+Air Canada,2017,12164,Aviation,Hacking
+Air Canada,2018,10121,Aviation,Hacking
+Air Canada,2019,6236,Aviation,Hacking
+Air Canada,2020,10261,Aviation,Hacking
+Air Canada,2021,6067,Aviation,Hacking
+Air Canada,2022,9086,Aviation,Hacking
+Samsung,1991,15530,Consumer Goods,Poor Security
+Samsung,1992,1915,Consumer Goods,Poor Security
+Samsung,1993,8593,Consumer Goods,Poor Security
+Samsung,1994,9364,Consumer Goods,Poor Security
+Samsung,1995,12563,Consumer Goods,Poor Security
+Samsung,1996,4478,Consumer Goods,Poor Security
+Samsung,1997,8747,Consumer Goods,Poor Security
+Samsung,1998,16786,Consumer Goods,Poor Security
+Samsung,1999,14188,Consumer Goods,Poor Security
+Samsung,2000,13679,Consumer Goods,Poor Security
+Samsung,2001,10118,Consumer Goods,Poor Security
+Samsung,2002,16979,Consumer Goods,Poor Security
+Samsung,2003,13989,Consumer Goods,Poor Security
+Samsung,2004,8871,Consumer Goods,Poor Security
+Samsung,2005,12060,Consumer Goods,Poor Security
+Samsung,2006,2964,Consumer Goods,Poor Security
+Samsung,2007,7924,Consumer Goods,Poor Security
+Samsung,2008,18662,Consumer Goods,Poor Security
+Samsung,2009,14770,Consumer Goods,Poor Security
+Samsung,2010,6700,Consumer Goods,Poor Security
+Samsung,2011,2298,Consumer Goods,Poor Security
+Samsung,2012,4187,Consumer Goods,Poor Security
+Samsung,2013,6644,Consumer Goods,Poor Security
+Samsung,2014,11419,Consumer Goods,Poor Security
+Samsung,2015,9034,Consumer Goods,Poor Security
+Samsung,2016,5495,Consumer Goods,Poor Security
+Samsung,2017,3116,Consumer Goods,Poor Security
+Samsung,2018,12583,Consumer Goods,Poor Security
+Samsung,2019,3240,Consumer Goods,Poor Security
+Samsung,2020,9408,Consumer Goods,Poor Security
+Samsung,2021,9268,Consumer Goods,Poor Security
+Samsung,2022,1776,Consumer Goods,Poor Security
+Goldman Sachs,1993,19307,Investment Banking,Hacking
+Goldman Sachs,1994,16461,Investment Banking,Hacking
+Goldman Sachs,1995,11023,Investment Banking,Hacking
+Goldman Sachs,1996,11167,Investment Banking,Hacking
+Goldman Sachs,1997,21572,Investment Banking,Hacking
+Goldman Sachs,1998,10592,Investment Banking,Hacking
+Goldman Sachs,1999,12979,Investment Banking,Hacking
+Goldman Sachs,2000,11850,Investment Banking,Hacking
+Goldman Sachs,2001,14594,Investment Banking,Hacking
+Goldman Sachs,2002,13148,Investment Banking,Hacking
+Goldman Sachs,2003,20585,Investment Banking,Hacking
+Goldman Sachs,2004,15035,Investment Banking,Hacking
+Goldman Sachs,2005,15425,Investment Banking,Hacking
+Goldman Sachs,2006,11824,Investment Banking,Hacking
+Goldman Sachs,2007,15860,Investment Banking,Hacking
+Goldman Sachs,2008,18674,Investment Banking,Hacking
+Goldman Sachs,2009,18178,Investment Banking,Hacking
+Goldman Sachs,2010,14419,Investment Banking,Hacking
+Goldman Sachs,2011,18723,Investment Banking,Hacking
+Goldman Sachs,2012,12639,Investment Banking,Hacking
+Goldman Sachs,2013,20289,Investment Banking,Hacking
+Goldman Sachs,2014,16958,Investment Banking,Hacking
+Goldman Sachs,2015,19624,Investment Banking,Hacking
+Goldman Sachs,2016,16439,Investment Banking,Hacking
+Goldman Sachs,2017,21796,Investment Banking,Hacking
+Goldman Sachs,2018,13560,Investment Banking,Hacking
+Goldman Sachs,2019,14526,Investment Banking,Hacking
+Goldman Sachs,2020,17847,Investment Banking,Hacking
+Goldman Sachs,2021,15031,Investment Banking,Hacking
+Goldman Sachs,2022,20188,Investment Banking,Hacking
+Apple,1991,8700,Consumer Tech,Hacking
+Apple,1992,14409,Consumer Tech,Hacking
+Apple,1993,28454,Consumer Tech,Hacking
+Apple,1994,7223,Consumer Tech,Hacking
+Apple,1995,4156,Consumer Tech,Hacking
+Apple,1996,17048,Consumer Tech,Hacking
+Apple,1997,11542,Consumer Tech,Hacking
+Apple,1998,14977,Consumer Tech,Hacking
+Apple,1999,22067,Consumer Tech,Hacking
+Apple,2000,27954,Consumer Tech,Hacking
+Apple,2001,14610,Consumer Tech,Hacking
+Apple,2002,6683,Consumer Tech,Hacking
+Apple,2003,28539,Consumer Tech,Hacking
+Apple,2004,32475,Consumer Tech,Hacking
+Apple,2005,12630,Consumer Tech,Hacking
+Apple,2006,11825,Consumer Tech,Hacking
+Apple,2007,12318,Consumer Tech,Hacking
+Apple,2008,12935,Consumer Tech,Hacking
+Apple,2009,11906,Consumer Tech,Hacking
+Apple,2010,6734,Consumer Tech,Hacking
+Apple,2011,21962,Consumer Tech,Hacking
+Apple,2012,16453,Consumer Tech,Hacking
+Apple,2013,20278,Consumer Tech,Hacking
+Apple,2014,14837,Consumer Tech,Hacking
+Bank of America,1991,26125,Consumer Bank,Losing Data
+Bank of America,1992,23509,Consumer Bank,Losing Data
+Bank of America,1993,23669,Consumer Bank,Losing Data
+Bank of America,1994,18816,Consumer Bank,Losing Data
+Bank of America,1995,23256,Consumer Bank,Losing Data
+Bank of America,1996,14863,Consumer Bank,Losing Data
+Bank of America,1997,20133,Consumer Bank,Losing Data
+Bank of America,1998,27206,Consumer Bank,Losing Data
+Bank of America,1999,20253,Consumer Bank,Losing Data
+Bank of America,2000,17188,Consumer Bank,Losing Data
+Bank of America,2001,26609,Consumer Bank,Losing Data
+Bank of America,2002,23909,Consumer Bank,Losing Data
+Bank of America,2003,23254,Consumer Bank,Losing Data
+Bank of America,2004,25465,Consumer Bank,Losing Data
+Bank of America,2005,23071,Consumer Bank,Losing Data
+Bank of America,2006,23588,Consumer Bank,Losing Data
+Bank of America,2007,13234,Consumer Bank,Losing Data
+Bank of America,2008,25528,Consumer Bank,Losing Data
+Bank of America,2009,23262,Consumer Bank,Losing Data
+Bank of America,2010,14754,Consumer Bank,Losing Data
+Bank of America,2011,25924,Consumer Bank,Losing Data
+Bank of America,2012,15788,Consumer Bank,Losing Data
+Bank of America,2013,18989,Consumer Bank,Losing Data
+Bank of America,2014,20106,Consumer Bank,Losing Data
+Bank of America,2015,14055,Consumer Bank,Losing Data
+Bank of America,2016,18068,Consumer Bank,Losing Data
+Bank of America,2017,20253,Consumer Bank,Losing Data
+Bank of America,2018,25242,Consumer Bank,Losing Data
+Bank of America,2019,15790,Consumer Bank,Losing Data
+Bank of America,2020,13732,Consumer Bank,Losing Data
+Bank of America,2021,21594,Consumer Bank,Losing Data
+Bank of America,2022,15444,Consumer Bank,Losing Data
+Citigroup,1993,33323,Financial,Poor Security
+Citigroup,1994,33939,Financial,Poor Security
+Citigroup,1995,26898,Financial,Poor Security
+Citigroup,1996,29459,Financial,Poor Security
+Citigroup,1997,31049,Financial,Poor Security
+Citigroup,1998,35668,Financial,Poor Security
+Citigroup,1999,33328,Financial,Poor Security
+Citigroup,2000,26708,Financial,Poor Security
+Citigroup,2001,29222,Financial,Poor Security
+Citigroup,2002,26032,Financial,Poor Security
+Citigroup,2003,36037,Financial,Poor Security
+Citigroup,2004,29721,Financial,Poor Security
+Citigroup,2005,30666,Financial,Poor Security
+Citigroup,2006,30189,Financial,Poor Security
+Citigroup,2007,31710,Financial,Poor Security
+Citigroup,2008,29689,Financial,Poor Security
+Citigroup,2009,30864,Financial,Poor Security
+Citigroup,2010,33008,Financial,Poor Security
+Citigroup,2011,27878,Financial,Poor Security
+Citigroup,2012,31608,Financial,Poor Security
+Citigroup,2013,33821,Financial,Poor Security
+Citigroup,2014,31442,Financial,Poor Security
+Citigroup,2015,34356,Financial,Poor Security
+Citigroup,2016,28241,Financial,Poor Security
+Citigroup,2017,35777,Financial,Poor Security
+Citigroup,2018,32515,Financial,Poor Security
+Citigroup,2019,32329,Financial,Poor Security
+Citigroup,2020,36370,Financial,Poor Security
+Citigroup,2021,31934,Financial,Poor Security
+Citigroup,2022,32124,Financial,Poor Security
+Yale University,1991,39395,Academic,Accidental Leak
+Yale University,1992,36110,Academic,Accidental Leak
+Yale University,1993,41242,Academic,Accidental Leak
+Yale University,1994,34918,Academic,Accidental Leak
+Yale University,1995,39205,Academic,Accidental Leak
+Yale University,1996,37339,Academic,Accidental Leak
+Yale University,1997,36759,Academic,Accidental Leak
+Yale University,1998,38036,Academic,Accidental Leak
+Yale University,1999,39565,Academic,Accidental Leak
+Yale University,2000,37766,Academic,Accidental Leak
+Yale University,2001,36948,Academic,Accidental Leak
+Yale University,2002,34792,Academic,Accidental Leak
+Yale University,2003,35490,Academic,Accidental Leak
+Yale University,2004,36202,Academic,Accidental Leak
+Yale University,2005,41371,Academic,Accidental Leak
+Yale University,2006,36465,Academic,Accidental Leak
+Yale University,2007,34824,Academic,Accidental Leak
+Yale University,2008,39345,Academic,Accidental Leak
+Yale University,2009,41989,Academic,Accidental Leak
+Yale University,2010,34467,Academic,Accidental Leak
+Yale University,2011,39831,Academic,Accidental Leak
+Yale University,2012,40425,Academic,Accidental Leak
+Yale University,2013,41351,Academic,Accidental Leak
+Yale University,2014,38031,Academic,Accidental Leak
+Yale University,2015,42572,Academic,Accidental Leak
+Yale University,2016,36205,Academic,Accidental Leak
+Yale University,2017,42312,Academic,Accidental Leak
+Yale University,2018,35739,Academic,Accidental Leak
+Yale University,2019,36827,Academic,Accidental Leak
+Yale University,2020,42581,Academic,Accidental Leak
+Yale University,2021,35136,Academic,Accidental Leak
+Yale University,2022,35934,Academic,Accidental Leak
+Apple,2015,25961,Consumer Tech,Hacking
+Apple,2016,21301,Consumer Tech,Hacking
+Apple,2017,33972,Consumer Tech,Hacking
+Apple,2018,30329,Consumer Tech,Hacking
+Apple,2019,22381,Consumer Tech,Hacking
+Apple,2020,31017,Consumer Tech,Hacking
+Apple,2021,30683,Consumer Tech,Hacking
+Apple,2022,24182,Consumer Tech,Hacking
+Apple,2022,26239,Consumer Tech,Hacking
+Apple,2021,34411,Consumer Tech,Hacking
+Apple,2020,28827,Consumer Tech,Hacking
+Apple,2019,32444,Consumer Tech,Hacking
+Apple,2018,32451,Consumer Tech,Hacking
+Apple,2017,33096,Consumer Tech,Hacking
